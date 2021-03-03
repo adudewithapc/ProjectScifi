@@ -1,0 +1,3 @@
+displayName = Project Scifi
+author = That Martin Guy, Das Buntenharen, XenaVoid
+version = 0.1
